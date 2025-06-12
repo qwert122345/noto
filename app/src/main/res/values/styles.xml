@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Body1 Styles -->
+    <style name="body1_medium">
+        <item name="android:fontFamily">@font/suit_medium</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">8sp</item>
+    </style>
+
+    <style name="body1_bold">
+        <item name="android:fontFamily">@font/suit_semibold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">6.4sp</item>
+    </style>
+
+    <!-- Body2 Styles -->
+    <style name="body2_medium">
+        <item name="android:fontFamily">@font/suit_medium</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:lineSpacingExtra">9sp</item>
+    </style>
+
+    <style name="body2_bold">
+        <item name="android:fontFamily">@font/suit_semibold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:lineSpacingExtra">7.2sp</item>
+    </style>
+
+    <!-- Body3 Styles -->
+    <style name="body3_medium">
+        <item name="android:fontFamily">@font/suit_medium</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:lineSpacingExtra">10sp</item>
+    </style>
+
+    <style name="body3_bold">
+        <item name="android:fontFamily">@font/suit_medium</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:lineSpacingExtra">8sp</item>
+    </style>
+
+    <!-- Body4 Styles -->
+    <style name="body4_medium">
+        <item name="android:fontFamily">@font/suit_medium</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:lineSpacingExtra">12sp</item>
+    </style>
+
+    <style name="body4_bold">
+        <item name="android:fontFamily">@font/suit_semibold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:lineSpacingExtra">9.6sp</item>
+    </style>
+
+    <!-- Label1 Styles -->
+    <style name="label1_medium">
+        <item name="android:fontFamily">@font/suit_medium</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineSpacingExtra">6sp</item>
+    </style>
+
+    <style name="label1_bold">
+        <item name="android:fontFamily">@font/suit_medium</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineSpacingExtra">4.8sp</item>
+    </style>
+
+    <!-- Label2 Styles -->
+    <style name="label2_medium">
+        <item name="android:fontFamily">@font/suit_medium</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineSpacingExtra">7sp</item>
+    </style>
+
+    <style name="label2_bold">
+        <item name="android:fontFamily">@font/suit_medium</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineSpacingExtra">5.6sp</item>
+    </style>
+
+</resources>
